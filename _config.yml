@@ -1,0 +1,12 @@
+# Site settings
+title: stackarea.com
+email: lpmulligan@stackarea.com
+description: > # this means to ignore newlines until "baseurl:"
+  My blatherings about cloud computing, virtualization, containers, configuration management, and Openstack.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://stackarea.com" # the base hostname & protocol for your site
+twitter_username: lpmulligan
+github_username:  lpmulligan
+
+# Build settings
+markdown: kramdown
